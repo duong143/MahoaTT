@@ -1,0 +1,30 @@
+C:\Users\dinhb\source\repos\btlatbmtt\bin\Debug\btlatbmtt.exe.config
+C:\Users\dinhb\source\repos\btlatbmtt\bin\Debug\btlatbmtt.exe
+C:\Users\dinhb\source\repos\btlatbmtt\bin\Debug\btlatbmtt.pdb
+C:\Users\dinhb\source\repos\btlatbmtt\bin\Debug\Guna.UI2.dll
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.csproj.AssemblyReference.cache
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.Form_giaodien.resources
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.Properties.Resources.resources
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.csproj.GenerateResource.cache
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.csproj.CoreCompileInputs.cache
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.csproj.Up2Date
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.exe
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.pdb
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.Home.resources
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.Mahoapanel.resources
+C:\Users\dinhb\source\repos\btlatbmtt\obj\Debug\btlatbmtt.Lichsumahoa.resources
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\bin\Debug\btlatbmtt.exe.config
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\bin\Debug\btlatbmtt.exe
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\bin\Debug\btlatbmtt.pdb
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\bin\Debug\Guna.UI2.dll
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.csproj.AssemblyReference.cache
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.Form_giaodien.resources
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.Home.resources
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.Lichsumahoa.resources
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.Mahoapanel.resources
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.Properties.Resources.resources
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.csproj.GenerateResource.cache
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.csproj.CoreCompileInputs.cache
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.csproj.Up2Date
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.exe
+C:\Users\dinhb\OneDrive\Máy tính\btlatbmtt\obj\Debug\btlatbmtt.pdb
